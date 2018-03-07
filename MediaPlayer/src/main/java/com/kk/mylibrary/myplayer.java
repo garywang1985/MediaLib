@@ -10,7 +10,7 @@ public class myplayer {
     private static String LOG_TAG = "myplayer";
 
     private int version = 1;
-    myplayer()
+    public myplayer()
     {
         Log.d(LOG_TAG,"constructor");
     }
